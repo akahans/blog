@@ -127,3 +127,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Misc
+.*.swp
+.*.swo
+*.pyc
+.DS_Store
+docs/fr/_build
+tags
+htmlcov
+six-*.egg/
+*.orig
+samples/output
+*.pem
+.idea
